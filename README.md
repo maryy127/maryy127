@@ -8,5 +8,5 @@ Check out my skills!)
 
 <h1>Skills and Tools:</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=github,python,cpp,html,css,js,nodejs" />
 </p>
