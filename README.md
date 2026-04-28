@@ -1,6 +1,6 @@
 <h1>Hii, my name is Maria!</h1>
-I'm beginner in computer science, particulary in solving olympiad tasks in Python and C++ and web-development! 
-I'm '09 liner and I live in Russia!
+I am from Russia, Moscow oblast(region)<3
+I have been studying computer science for three years, also I am learning olymp programming in C++. I'm a prize winner of VsOSh's regional stage in programming already! I'm also a junior web-developer.
 U can always text me on my <a target="_blank" href="https://t.me/m1rsixx">Telegram</a>
 
 
